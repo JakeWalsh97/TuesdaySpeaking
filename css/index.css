@@ -1,0 +1,71 @@
+body {
+	font-family:Verdana, Arial, sans-serif;
+    background-image: url(../images/rainfall.jpg);
+}
+
+.btn-danger{
+    margin-top: .5em;
+}
+
+.btn-default{
+    width:10em;
+}
+
+.footer{
+    color: black;
+    text-align: right;
+}
+
+.border{
+    border-bottom: .10em solid white;
+}
+
+.head{
+    color: black;
+}
+
+.par{
+    color: black;
+}
+
+
+.title{
+    color:red;
+    font-size: 1.25em;
+    border-bottom: .05em solid black;
+}
+
+.paragraph{
+    border-bottom: .05em solid black;
+}
+
+.text-center{
+    border: .10em solid black;
+}
+
+.text-center1{
+    background-color: yellow;
+    border: .10em solid black;
+}
+
+.text-center2{
+    background-color: purple;
+    border: .10em solid black;
+}
+
+.text-center3{
+    background-color: green;
+    border: .10em solid black;
+}
+
+.promo{
+    float:center;
+}
+
+.img-rounded{
+    border: .13em solid black;
+}
+
+.slide-image{
+    width:40em;
+}

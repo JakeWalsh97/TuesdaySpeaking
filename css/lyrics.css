@@ -1,0 +1,19 @@
+body {
+    color: black;
+	font-family:Verdana, Arial, sans-serif;
+    background-image: url(../images/lyrBack.jpg);
+}
+
+.footer{
+    color: black;
+    text-align: right;
+}
+
+.img-responsive{
+    width:40em;
+    border:.20em solid white;
+}
+
+.col-md-5{
+    margin-top:5em;
+}

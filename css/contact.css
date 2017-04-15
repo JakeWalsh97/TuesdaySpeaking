@@ -1,0 +1,20 @@
+body {
+    color: black;
+	font-family:Verdana, Arial, sans-serif;
+    background-image: url(../images/rainfall.jpg);
+}
+
+.contact{
+    font-size:2em;
+    margin-top:1em;
+}
+
+.img-responsive{
+    width:25em;
+    border:.20em solid white;
+}
+
+.footer{
+    color: black;
+    text-align: right;
+}
